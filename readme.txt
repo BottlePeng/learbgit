@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 今天中午吃啥
 不吃了 不饿
+傻逼老板
